@@ -3,14 +3,7 @@
 
 A classic **Snake Game** built using **HTML**, **CSS**, and **JavaScript**. Navigate the snake using arrow keys, eat food to grow, and avoid hitting walls or yourself!
 
-![Snake Game Demo](./screenshot.png) <!-- Optional: Add screenshot of your game if available -->
 
-## 🎮 Live Demo
-
-👉 [Play Now](#)  
-<!-- Replace `#` with your GitHub Pages or live hosting link if deployed -->
-
----
 
 ## 🚀 Features
 
@@ -22,5 +15,5 @@ A classic **Snake Game** built using **HTML**, **CSS**, and **JavaScript**. Navi
 
 ---
 
-## 📁 Files & Folders
+
 
